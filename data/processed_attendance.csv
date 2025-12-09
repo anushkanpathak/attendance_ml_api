@@ -1,0 +1,4 @@
+student_id,date,subject,present,dept,semester,total_classes,total_present,overall_att,last7,last30,streak,week,trend,label
+102,2024-01-10,Math,0,CSE,4,10,3,0.3,0.2857142857142857,0.3,1,2,0.047619047619047616,1
+101,2024-01-10,Math,1,CSE,4,10,8,0.8,0.8571428571428571,0.8,0,2,0.2857142857142857,0
+103,2024-01-10,Math,1,CSE,4,10,9,0.9,0.8571428571428571,0.9,0,2,-0.33333333333333337,0
